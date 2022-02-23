@@ -1,4 +1,4 @@
-#PSet solutions
+# PSet solutions
 Problem set solutions to MITx programming course using Python. Completed on 27 October, 2021 with a verified certificate. 
 
 Some solutions have predefined variables or functions so they will not work in an IDE (unless also independently defined).
