@@ -6,6 +6,7 @@ def isWordGuessed(secretWord, lettersGuessed):
       False otherwise
     '''
     # FILL IN YOUR CODE HERE...
+    
     for char in secretWord:
         if char not in lettersGuessed:
             return False
