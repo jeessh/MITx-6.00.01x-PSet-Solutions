@@ -1,5 +1,5 @@
-# MITx-6.00.01x-PSet-Solutions
-Problem set solutions to MITx 6.00.01x course using Python. Completed on 27 October, 2021 with a verified certificate. 
+#PSet solutions
+Problem set solutions to MITx programming course using Python. Completed on 27 October, 2021 with a verified certificate. 
 
 Some solutions have predefined variables or functions so they will not work in an IDE (unless also independently defined).
 
